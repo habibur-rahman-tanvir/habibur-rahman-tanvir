@@ -8,3 +8,6 @@ I regularly build projects to improve my skills and learn new concepts like auth
 🎯 I’m continuously improving my skills in **JavaScript**, **REST APIs**, and modern frontend technologies like **Tailwind CSS** and **React Router**.
 
 ### 🔗 Connect with me!
+
+
+(Happy new year)
