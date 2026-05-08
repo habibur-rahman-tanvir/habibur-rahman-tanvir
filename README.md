@@ -72,11 +72,11 @@ I'm **Habibur Rahman Tanvir**, a passionate developer focused on building modern
 
 ## 📊 GitHub Stats
 
-```bash
-🚀 Consistent learner
-📈 Improving problem solving skills
-🔥 Focused on real-world projects
-```
+<a> 
+    <a href="https://github.com/habibur-rahman-tanvir"><img alt="Habibur's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=habibur-rahman-tanvir&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/habibur-rahman-tanvir"><img alt="Habibur's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=habibur-rahman-tanvir&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
 ## ⭐ Goals
 
