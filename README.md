@@ -19,24 +19,30 @@ I'm **Habibur Rahman Tanvir**, a passionate developer focused on building modern
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
-- HTML5, CSS3
-- JavaScript (ES6+)
-- React.js
-- Tailwinds css
+- [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+- [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+- [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)](#)
+- [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
 ### ⚙️ Backend
-- Node.js
-- Express.js
+- [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](https://nodejs.org/en)
+- [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 
 ### 🗄️ Database
-- MongoDB (Mongoose)
-- Redis
-- MySql
+- [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+- [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
+- [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+
+### 👩‍💻 DevOps
+- [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
 ### 🔧 Tools & Others
-- Git & GitHub
-- REST API
-- Docker (Learning)
+- [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+- [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+- [![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](#)
+- [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)](#)
+
 
 ---
 
@@ -66,7 +72,7 @@ I'm **Habibur Rahman Tanvir**, a passionate developer focused on building modern
 
 ## 📫 Connect With Me
 
-- 💼 GitHub: https://github.com/habibur-rahman-tanvir
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61574983536229)
 - 📧 Email: habibur353637@gmail.com
 
 ## ⭐ Goals
