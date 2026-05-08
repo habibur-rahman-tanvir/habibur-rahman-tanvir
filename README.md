@@ -16,6 +16,14 @@ I'm **Habibur Rahman Tanvir**, a passionate developer focused on building modern
 
 ---
 
+## 📫 Connect With Me
+
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61574983536229)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:habibur353637@gmail.com)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/8801705699713)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
@@ -69,11 +77,6 @@ I'm **Habibur Rahman Tanvir**, a passionate developer focused on building modern
 📈 Improving problem solving skills
 🔥 Focused on real-world projects
 ```
-
-## 📫 Connect With Me
-
-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61574983536229)
-- 📧 Email: habibur353637@gmail.com
 
 ## ⭐ Goals
 
