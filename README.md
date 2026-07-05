@@ -70,6 +70,13 @@ I'm **Habibur Rahman Tanvir**, a passionate developer focused on building modern
 
 ---
 
+## 🏆 Achievement & Badge
+
+### 🥇 Provlem solving badge
+<p align="center"><img src="https://www.codewars.com/users/habibur-rahman-tanvir/badges/large" /></p>
+
+---
+
 ## 📊 GitHub Stats
 
 <a> 
