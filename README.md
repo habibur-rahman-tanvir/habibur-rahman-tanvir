@@ -64,10 +64,6 @@ I'm **Habibur Rahman Tanvir**, a passionate developer focused on building modern
 - Built using React & Express
 - Features: (Same to FB Lite)
 
-### 🧠 Quiz App
-- Multiple categories (Science, Math, History, etc.)
-- Dynamic question handling
-
 ### 🧮 Calculator App
 - Keyboard + button support
 - Clean UI with real-time calculations
