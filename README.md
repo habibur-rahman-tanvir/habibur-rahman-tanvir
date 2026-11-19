@@ -73,10 +73,15 @@ I'm **Habibur Rahman Tanvir**, a passionate developer focused on building modern
 ## 🏆 Achievement & Badge
 
 ### 🥇 Provlem solving badge
+
+#### Codewars
 <p align="center"><a href="https://www.codewars.com/users/habibur-rahman-tanvir" target="_blank"><img src="https://www.codewars.com/users/habibur-rahman-tanvir/badges/large" /></a></p>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/habibur-rahman-tanvir)](https://leetcode.com/u/habibur-rahman-tanvir)
 [![Codewars Stats](https://github.r2v.ch/codewars?user=habibur-rahman-tanvir)](https://www.codewars.com/users/habibur-rahman-tanvir)
+
+#### LeetCode
+[![LeetCode Stats](https://leetcard.jacoblin.cool/habibur-rahman-tanvir)](https://leetcode.com/u/habibur-rahman-tanvir)
+
 
 ---
 
